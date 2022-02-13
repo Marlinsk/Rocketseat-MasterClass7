@@ -4,9 +4,9 @@ import TaxonomiaService from '../services/TaxonomiaService';
 const animals = [
     { name: 'Arara-azul-grande', specie: 'Anodorhynchus hyacinthinus' },
     { name: 'Baleia-jubarte', specie: 'Megaptera novaeangliae' },
-    { name: 'besouro-hércules', specie: 'Dynastes hercules' }, 
+    { name: 'Besouro-hércules', specie: 'Dynastes hercules' }, 
     { name: 'Leão-do-atlas', specie: 'Panthera leo leo' },
-    { name: 'leopardo-das-neves', specie: 'Panthera uncia' },
+    { name: 'Leopardo-das-neves', specie: 'Panthera uncia' },
     { name: 'Mariposa-atlas', specie: 'Attacus atlas' },
     { name: 'Tamanduá-de-colete', specie: 'Tamandua tetradactyla' },
     { name: 'Tatu-bola-do-nordeste', specie: 'Tolypeutes tricinctus' },
